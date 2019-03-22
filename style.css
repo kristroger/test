@@ -1,0 +1,58 @@
+body{
+	background: rgb(245,245,245);
+	color: green;
+	font-size: 16px;
+	font-family: Helvetica;
+	margin: auto 0;
+}
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: puple;
+}
+.navbar{
+	background-color: #e9e4e6;
+}
+#banner{
+	text-align: center;
+	background-image: url(images/banner.jpg);
+	background-size: cover;
+	padding: 150px;
+	color: white;
+}
+#banner h1{
+	font-family: Courier;
+	color: white;
+}
+#banner p{
+	opacity: 0.8;
+}
+#footer{
+	padding: 30px;
+	background: rgb(30, 30, 30);
+	text-align: center;
+	color: lightgrey;
+}
+#footer ul{
+	list-style-type: none;
+}
+#footer a {
+	color: lightgrey;
+}
+#footer a:hover {
+	color: white;
+}
+.card{
+	padding: 50px;
+	text-align: center;
+}
+.formula{
+	margin-top: 100px;
+	margin-bottom: 70px;
+}
+/*.card > img{
+	position: relative;
+	left: 28px;
+}*/
