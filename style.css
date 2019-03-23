@@ -10,7 +10,7 @@ a{
 	text-decoration: none;
 }
 a:hover{
-	color: puple;
+	color: purple;
 }
 .navbar{
 	background-color: #e9e4e6;
@@ -56,3 +56,6 @@ a:hover{
 	position: relative;
 	left: 28px;
 }*/
+.carousel img {
+    height: 500px;
+}
