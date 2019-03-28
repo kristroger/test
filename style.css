@@ -1,5 +1,4 @@
 body{
-	background: rgb(245,245,245);
 	color: green;
 	font-size: 16px;
 	font-family: Helvetica;
@@ -15,10 +14,13 @@ a:hover{
 .navbar{
 	background-color: #e9e4e6;
 }
-#banner{
-	text-align: center;
+#ban{
 	background-image: url(images/banner.jpg);
 	background-size: cover;
+}
+#banner{
+	background: rgba(0,0,0,0.5);
+	text-align: center;
 	padding: 150px;
 	color: white;
 }
@@ -26,9 +28,9 @@ a:hover{
 	font-family: Courier;
 	color: white;
 }
-#banner p{
+/*#banner p{
 	opacity: 0.8;
-}
+}*/
 #footer{
 	padding: 30px;
 	background: rgb(30, 30, 30);
